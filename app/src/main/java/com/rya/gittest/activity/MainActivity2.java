@@ -1,8 +1,10 @@
-package com.rya.gittest;
+package com.rya.gittest.activity;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.Toast;
+
+import com.rya.gittest.R;
 
 public class MainActivity2 extends AppCompatActivity {
 
